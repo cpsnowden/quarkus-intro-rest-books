@@ -1,4 +1,4 @@
-package org.cps.quarkus.starting;
+package org.cps.quarkus.starting.controller;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
