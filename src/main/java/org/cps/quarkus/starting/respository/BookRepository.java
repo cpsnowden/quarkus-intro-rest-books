@@ -13,7 +13,7 @@ public class BookRepository implements IBookRepository {
     public List<Book> getAllBooks() {
         return List.of(
                 new Book(1, "Understanding Quarkus", "Antonio", "IT", 2020),
-                new Book(1, "Practising Quarkus", "Antonio", "IT", 2020)
+                new Book(2, "Practising Quarkus", "Antonio", "IT", 2020)
         );
     }
 

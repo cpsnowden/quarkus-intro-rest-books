@@ -17,7 +17,7 @@ import java.util.Optional;
 public class BookResource {
 
     @Inject
-    private IBookRepository bookRepository;
+    IBookRepository bookRepository;
 
     @GET
     public List<Book> getAllBooks() {
