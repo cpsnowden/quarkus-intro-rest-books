@@ -1,5 +1,25 @@
 # rest-book
 
+This project was created to get a feeling of Quarkus, focussed on developer experience and basic features:
+
+### What is Quarkus
+
+### Setup
+
+### Hot Reload and Watch Testing
+
+### Testing
+
+### Configuration and Profiles
+
+### Packaging Application
+
+### Executing Application
+
+### Overall Impressions
+
+# Boiler Plate from Quarkus Archetype
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
