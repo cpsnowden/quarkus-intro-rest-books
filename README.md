@@ -78,6 +78,8 @@ default, Quarkus ships with `%dev`, `%test` and `%prod` profiles which are selec
 
 Alternatively the profile can be selected using `-Dquarkus.profile` property.
 
+Config specific to a profile is prefixed with the respective profile e.g. `%dev.my.property`
+
 ### Packaging Application
 
 #### JVM
